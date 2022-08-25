@@ -1,2 +1,2 @@
-Fist directory in my repository
-updating fist time
+First directory in my repository
+updating first time
